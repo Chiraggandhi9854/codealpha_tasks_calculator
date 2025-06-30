@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 50px;
+  }
+  
+  input {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 45px;
+    height: 45px;
+    font-size: 18px;
+    margin: 3px;
+    cursor: pointer;
+  }
+  
